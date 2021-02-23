@@ -1,4 +1,5 @@
-#Documentação
+Documentação
+
 Projeto realizado utilizando a linguagem JAVA através da IDE Eclipse. Autor: Gabriel Bertoldi Inácio
 
 Todo o processo do sistema gira em torno métodos vindo de uma classe Interface, na qual cada método com exceção dos métodos de pesquisas, fazem valores entrarem e sairem de listas. O tamanho das salas de aulas assim como o tamanho das áreas de café informadas pelo usuário, definirá o tamanho máximo de dois ArrayLists para cada área, dois para a área de aula e dois para a área de café, sendo definidos através de contadores. O sistema possui uma sequencia de métodos que devem ser utilizados, caso utilize um método erroniamente será disparado uma exceção explicando o que fazer e o programa irá se encerrar (abaixo se encontra a lista de métodos e a sequencia correta).
