@@ -14,9 +14,9 @@ Foram feitos testes alterando a capacidade de alunos, e a capacidade da cafeteri
 
 COMPILAR
 
-Eclipse - Baixe o .rar GoDev e o extraia para uma pasta de sua preferencia, e no ambiente Eclipse vá em: File -> Open Projects from file System -> Clique em Directory -> Selecione a pasta contendo o projeto e clique em selecionar pasta. Pronto, o projeto será aberto no Eclipse.
+Eclipse - Baixe o .rar GoDev e o extraia para uma pasta de sua preferencia, e no ambiente Eclipse vá em: File -> Open Projects from file System -> Clique em Directory -> Selecione a pasta contendo o projeto e clique em selecionar pasta. Após fazer isto o projeto será aberto no Eclipse.
 
-Netbeans - Baixe o .rar GoDev e o extraia para uma pasta de sua preferencia, e no ambient Netbeans vá em: File -> Import Project -> Eclipse Project -> Selecione a opção Import Project ignoring Project Dependencies, após você escolher está opção você clica no primeiro Browse e seleciona a pasta GoDev, após fazer isto você deve escolher o segundo Browse e selecionar uma pasta para onde o seu projeto do netbeans deverá ser direcionado. Após fazer isto o projeto será aberto no Netbeans.
+Netbeans - Baixe o .rar GoDev e o extraia para uma pasta de sua preferencia, e no ambient Netbeans vá em: File -> Import Project -> Eclipse Project -> Selecione a opção Import Project ignoring Project Dependencies, após você escolher está opção você clica no primeiro Browse e seleciona a pasta GoDev, após fazer isto você deve clicar no segundo Browse e selecionar uma pasta para onde o seu projeto do netbeans deverá ser direcionado. Após fazer isto o projeto será aberto no Netbeans.
 
 LISTA DE MÉTODOS
 
